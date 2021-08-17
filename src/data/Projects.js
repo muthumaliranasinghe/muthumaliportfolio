@@ -5,7 +5,7 @@ export const projects = [
         id: uuidV(),
         title: "Project One",
         desc: "General Knowledge Question bank using with AJAX & PHP.",//Lorem Ipsum is simply dummy text of the printing and typesetting industry
-        github: "https://github.com/muthumali/General-knowledge-Question-bank",
+        github: "https://github.com/muthumaliranasinghe/General-knowledge-Question-bank",
         demo: "https://drive.google.com/file/d/1-d1PoMUaFN7FTrHVwQ2PkfaoiHtV2tgA/view?usp=sharing",
         image: "./images/grnimg.png"
     },
@@ -14,8 +14,8 @@ export const projects = [
         id: uuidV(),
         title: "Project Two",
         desc: "OOP-Covid-19-patient And Hotel-Management-System.",
-        github: "https://github.com/muthumali/OOP-Covid-19-patient-Management-System",
-        demo: "https://drive.google.com/file/d/1-d1PoMUaFN7FTrHVwQ2PkfaoiHtV2tgA/view?usp=sharing",
+        github: "https://github.com/muthumaliranasinghe/OOP-Covid-19-patient-Management-System",
+        demo: "https://drive.google.com/file/d/1-d1PoMUaFN7FTrHVwQhttps://github.com/muthumaliranasinghe/OOP-Covid-19-patient-Management-System2PkfaoiHtV2tgA/view?usp=sharing",
         image: "./images/orgimg.png"
     },
 
@@ -23,7 +23,7 @@ export const projects = [
         id: uuidV(),
         title: "Project Three",
         desc: "Simple React with Joker Generator Using API.",
-        github: "https://github.com/muthumali/React-Joker-Generator",
+        github: "https://github.com/muthumaliranasinghe/React-Joker-Generator",
         demo: "https://drive.google.com/file/d/1-d1PoMUaFN7FTrHVwQ2PkfaoiHtV2tgA/view?usp=sharing",
         image: "./images/pinkimg.png"
     },
@@ -32,7 +32,7 @@ export const projects = [
         id: uuidV(),
         title: "Project Four",
         desc: "Login-System using HTML CSS PHP Login System.",
-        github: "https://github.com/muthumali/Login-System",
+        github: "https://github.com/muthumaliranasinghe/Login-System",
         demo: "https://drive.google.com/file/d/1-d1PoMUaFN7FTrHVwQ2PkfaoiHtV2tgA/view?usp=sharing",
         image: "./images/purpleimg.png"
     },
@@ -41,7 +41,7 @@ export const projects = [
         id: uuidV(),
         title: "Project Five",
         desc: " Simple Ordering System with Login Using PHP.",
-        github: "https://github.com/muthumali/Ordering-System",
+        github: "https://github.com/muthumaliranasinghe/Ordering-System",
         demo: "https://drive.google.com/file/d/1-d1PoMUaFN7FTrHVwQ2PkfaoiHtV2tgA/view?usp=sharing",
         image: "./images/redimg.png"
     },
@@ -50,7 +50,7 @@ export const projects = [
         id: uuidV(),
         title: "Project Six",
         desc: "Simple Gimnasium Web Site using CSS Positioning.",
-        github: "https://muthumali.github.io/Gymnasium/",
+        github: "https://github.com/muthumaliranasinghe/Gymnasium",
         demo: "https://drive.google.com/file/d/1-d1PoMUaFN7FTrHVwQ2PkfaoiHtV2tgA/view?usp=sharing",
         image: "./images/yellowimg.png"
     }
