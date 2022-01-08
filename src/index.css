@@ -94,7 +94,7 @@ ul{
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background-image: url(./images/women.png);
+  background-image: url(./images/muthumali.png);
   background-repeat: no-repeat;
   background-size: 600px;
   background-position: bottom center;
@@ -121,7 +121,7 @@ ul{
 }
 
 .home-page p{
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   max-width: 900px;
   text-align: center;
   position: relative;
